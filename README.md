@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there
 
 <!--
 **bjdose/bjdose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Apetoi
-- 👯 I’m looking to collaborate on Angular Projects
+- 🔭 I’m currently working on Apetoi as a Frontend Developer
+- 🌱 I’m currently learning English
+- 🤔 I'm trying to learn something new every single day
