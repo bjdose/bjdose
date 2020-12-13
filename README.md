@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Apetoi as a Frontend/Mobile Developer
-- 🌱 I’m currently learning English and Node
-- 🤔 I'm trying to learn something new every single day
+
+Hi there! 
